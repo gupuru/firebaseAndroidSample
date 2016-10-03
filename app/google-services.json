@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "228239517847",
+    "firebase_url": "https://fir-handson-ce2a8.firebaseio.com",
+    "project_id": "fir-handson-ce2a8",
+    "storage_bucket": "fir-handson-ce2a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228239517847:android:200bfba940978343",
+        "android_client_info": {
+          "package_name": "com.gupuru.firebasehandson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228239517847-9bf04vbg1smn2hc653a7i7sl2851ipfj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gupuru.firebasehandson",
+            "certificate_hash": "FDDE200EC58B887AF7B6D43ACA1EC1FD3827E8FF"
+          }
+        },
+        {
+          "client_id": "228239517847-rgnut52qc1h94k9n20e43uo2t13mmlnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9XFl81zC7C2s4ZDa0_p22BSRVZz9sO6g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228239517847-rgnut52qc1h94k9n20e43uo2t13mmlnh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "228239517847-26fcaonomkpurrhe4qke2bj92gd46med.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gupuru.FirebaseAnalyticsSample"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
